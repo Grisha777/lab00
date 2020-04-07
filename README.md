@@ -16,12 +16,22 @@
 
 ## Tutorial
 
-# CMake - система автоматизации сборки ПО из исходного кода
+CMake - система автоматизации сборки ПО из исходного кода
 $ cmake --version
 cmake version 3.10.2
+
+cURL - утилита командной строки и библиотека для передачи данных с URL-адресами
 $ curl --version
+curl 7.58.0 (x86_64-pc-linux-gnu) libcurl/7.58.0 OpenSSL/1.1.1 zlib/1.2.11 libidn2/2.0.4 libpsl/0.19.1 (+libidn2/2.0.4) nghttp2/1.30.0 librtmp/2.3
+
+Git - распределенная система управления версиями
 $ git --version
+git version 2.17.1
+
+g++ - компилятор С++ для UNIX – подобных систем
 $ g++ --version
+g++ (Ubuntu 7.5.0-3ubuntu1 18.04) 7.5.0
+
 $ hub --version
 $ make --version
 $ subl --version
