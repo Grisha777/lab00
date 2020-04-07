@@ -16,9 +16,9 @@
 
 ## Tutorial
 
-```sh
-# tip: check development environment
+# CMake - система автоматизации сборки ПО из исходного кода
 $ cmake --version
+cmake version 3.10.2
 $ curl --version
 $ git --version
 $ g++ --version
